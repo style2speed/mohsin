@@ -7,4 +7,4 @@
         }  
     }  
       
-    echo "<h2>Successfully Uploaded Images</h2>";  
+    echo "<h2>its not uploading shitt</h2>";  
